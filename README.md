@@ -2,7 +2,7 @@
 > Flappy monster is a small canvas based game developed for practicing and learning canvas
 
 ## Actually want to play?
-[Flappy Monster](https://flappymonster.netlify.app/) is small canvas based game developed for practicing and learning canvas
+[Flappy Monster](https://flappymonstergame.netlify.app/) is small canvas based game developed for practicing and learning canvas
 
 ## Snapshots
 
